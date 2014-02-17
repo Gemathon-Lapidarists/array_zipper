@@ -1,6 +1,6 @@
 # ArrayZipper
 
-TODO: Write a gem description
+ArrayZipper Gem takes two strings which has some comma separated text. Splits it into two respective arrays and then combines the array. This array can be used in various projects as per requirement
 
 ## Installation
 
@@ -16,9 +16,13 @@ Or install it yourself as:
 
     $ gem install array_zipper
 
-## Usage
+## Examples
+ string1 = "Id , Name"
+ string2 = "1, Some Name"
 
-TODO: Write usage instructions here
+ ArrayZipper.zipper(string1 , string2)
+  > [['Id','1'] ,['Name','Some Name']]
+
 
 ## Contributing
 
