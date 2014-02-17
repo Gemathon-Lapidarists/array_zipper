@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ArrayZipper::VERSION
   spec.authors       = ["Ankita kanitkar"]
   spec.email         = ["ankitakanitkar@gmail.com"]
-  spec.description   = %q{zip two arrays}
-  spec.summary       = %q{zip two arrays}
+  spec.description   = %q{zip two arrays of comma separated strings}
+  spec.summary       = %q{zip two arrays of comma separated strings}
   spec.homepage      = ""
   spec.license       = "MIT"
 
