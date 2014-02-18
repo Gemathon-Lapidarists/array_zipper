@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ankitakanitkar@gmail.com"]
   spec.description   = %q{zip two arrays of comma separated strings}
   spec.summary       = %q{zip two arrays of comma separated strings}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/Gemathon-Lapidarists/array_zipper"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
